@@ -3,18 +3,22 @@
 # exit on any error
 set -e
 
-echo '' > toc.md
+echo "# Table of Contents" > toc.md
+cat `cat book.md | sed 's/@import//' | sed 's/"//g'` \
+    > book_cat.md
 
-cat `cat book.md |sed 's/@import//' | sed 's/"//g'` | \
-    pandoc -o book_cat.md
+echo "# Table of Contents
+\$toc\$
+" > toc-template.txt
 
-echo "\$toc\$" > toc-template.txt
-
-pandoc book_cat.md --toc --standalone --template=toc-template.txt -o toc.md
+# pandoc book_cat.md --toc --standalone --template=toc-template.txt -o toc.md
+pandoc book_cat.md --toc --template=toc-template.txt -o toc.md
+echo "" >> toc.md
 
 perl -pi -e 's/ -- / – /g' toc.md
 
-/bin/rm book_cat.md toc-template.txt
+cat `cat book.md | sed 's/@import//' | sed 's/"//g'` \
+    | pandoc -o book.html
 
-# cat `cat book.md |sed 's/@import//' | sed 's/"//g'` | \
-#     pandoc -o book.html
+/bin/rm book_cat.md toc-template.txt
+# /bin/rm book_cat.md toc.md toc-template.txt

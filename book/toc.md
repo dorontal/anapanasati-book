@@ -1,12 +1,15 @@
+# Table of Contents
 -   [Preface](#preface){#toc-preface}
-    -   [Preparation](#preparation){#toc-preparation}
-        -   [1 – Posture](#posture){#toc-posture}
-        -   [2 – Loving Kindness
-            Meditation](#loving-kindness-meditation){#toc-loving-kindness-meditation}
-        -   [3 – Motivation](#motivation){#toc-motivation}
-        -   [4 – Session Plan](#session-plan){#toc-session-plan}
-        -   [5 – Present Moment
-            Awareness](#present-moment-awareness){#toc-present-moment-awareness}
+-   [Introduction](#introduction){#toc-introduction}
+-   [Table of Contents](#table-of-contents){#toc-table-of-contents}
+-   [Preparation](#preparation){#toc-preparation}
+    -   [1 – Posture](#posture){#toc-posture}
+    -   [2 – Loving Kindness
+        Meditation](#loving-kindness-meditation){#toc-loving-kindness-meditation}
+    -   [3 – Motivation](#motivation){#toc-motivation}
+    -   [4 – Session Plan](#session-plan){#toc-session-plan}
+    -   [5 – Present Moment
+        Awareness](#present-moment-awareness){#toc-present-moment-awareness}
     -   [1 – Long Breath
         Awareness](#long-breath-awareness){#toc-long-breath-awareness}
         -   [How to Practice](#how-to-practice){#toc-how-to-practice}
@@ -134,3 +137,4 @@
             Maturation](#signs-of-maturation-15){#toc-signs-of-maturation-15}
         -   [Common
             misunderstandings](#common-misunderstandings-15){#toc-common-misunderstandings-15}
+

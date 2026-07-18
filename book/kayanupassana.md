@@ -7,7 +7,7 @@
 > _<span style="color:green;">Dīghaṁ vā assasanto</span> ‘<span style="color:limegreen;">dīghaṁ assasāmī</span>’ti <span style="color:blueviolet;">pajānāti</span>, <span style="color:red;">dīghaṁ vā passasanto</span> ‘<span style="color:darkorange;">dīghaṁ passasāmī</span>’ti <span style="color:blueviolet;">pajānāti</span>;_
 
 ### How to Practice
-* Take intentional deep, long breaths, lowering the diaphragm toward the gut and abdominal organs on the in-breath, without forcing or exaggeration. Optionally, you may make the out-breath longer than the in-breath, since modern science has confirmed that this further calms the nervous system REF.
+* Take intentional deep, long breaths, lowering the diaphragm as you inhale, to press on the gut and abdominal organs, without forcing or exaggeration. Optionally, you may make the out-breath longer than the in-breath, since modern science has confirmed that this further calms the nervous system REF.
 * Continuously keep track of whether you're breathing in or out. 
 * Ideally, breathe both in and out through the nose. If that's not possible or easy, breathe in through the nose and out through the mouth. As a last resort, breathe both in and out through the mouth.
 * You may take just three or four such deep, long breaths, or you may continue for many minutes, depending on how much calming your mind and body require - which differs from session to session. For example, if you're stressed or agitated when you begin, you may need to spend more time on this step, continuing until the body and mind calm down considerably.
