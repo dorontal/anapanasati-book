@@ -33,8 +33,8 @@
             Formations](#calming-mental-formations){#toc-calming-mental-formations}
     -   [Following the mind --
         *Cittānupassanā*](#following-the-mind-cittānupassanā){#toc-following-the-mind-cittānupassanā}
-        -   [9 – Experiencing the
-            Mind](#experiencing-the-mind){#toc-experiencing-the-mind}
+    -   [9 – Experiencing the
+        Mind](#experiencing-the-mind){#toc-experiencing-the-mind}
         -   [10 – Gladdening the
             Mind](#gladdening-the-mind){#toc-gladdening-the-mind}
         -   [11 – Collecting the
