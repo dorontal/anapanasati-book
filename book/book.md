@@ -1,0 +1,8 @@
+@import "preface.md"
+@import "toc.md"
+@import "introduction.md"
+@import "preparation.md"
+@import "kayanupassana.md"
+@import "vedananupassana.md"
+@import "cittanupassana.md"
+@import "dhammanupassana.md"
