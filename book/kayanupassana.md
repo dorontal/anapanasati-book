@@ -18,7 +18,7 @@
 * As the body relaxes, its inclination toward natural shorter breaths increases. If you notice you've already drifted into shorter breathing without intending to, don't treat yourself as having arrived at Step 2 (never stumble upon any step). Instead, return to long breathing briefly, then intentionally transition to short breathing.
 
 ### Common misunderstandings
-* When intentionally extending the breath, it's possible to make it too long. Stay gentle here: don't force the breath toward 100% lung capacity on the inhale, or all the way to empty on the exhale.
+* When intentionally extending the breath, it's possible to make it too long. Stay gentle here: there is no need to force the breath to full lung capacity on the inhale, or all the way to empty on the exhale.
 
 ---
 
