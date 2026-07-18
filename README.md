@@ -1,5 +1,9 @@
 # anapanasati-book
 
+This directory contains all text of the book by Doron Tal about the Anapanasati method of meditation that the Buddha taught.
+
+The book is created by concatenating `*.md` files in the directory `book/`, alphabetically ordered by filename and feeding the result to `pandoc`.
+
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
 This work is licensed under a
