@@ -17,3 +17,4 @@ Briefly go over the plan for this formal meditation session. Check in and ask yo
 
 ## 5 – Present Moment Awareness
 Abandon the past. Abandon the future. Shift your attention to the present moment. If you need a tool to help with this, you can try cycling between (a) telling yourself "I am aware that," then (b) paying attention to whatever arises - thought, touch, sound, odor, taste, or sight - and noticing how your awareness of it rises and falls.
+

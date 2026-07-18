@@ -2,6 +2,7 @@
 @import "introduction.md"
 @import "toc.md"
 @import "preparation.md"
+@import "the-sixteen-steps.md"
 @import "kayanupassana.md"
 @import "vedananupassana.md"
 @import "cittanupassana.md"
