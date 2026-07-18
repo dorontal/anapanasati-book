@@ -6,7 +6,9 @@ set -e
 cat `cat book.md |sed 's/@import//' | sed 's/"//g'` | \
     pandoc -o book_cat.md
 
-pandoc book_cat.md --toc -o toc.md
+pandoc book_cat.md --toc --standalone -o toc.md
+
+/bin/rm book_cat.md
 
 # cat `cat book.md |sed 's/@import//' | sed 's/"//g'` | \
 #     pandoc -o book.html
