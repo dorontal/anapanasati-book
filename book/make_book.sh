@@ -12,13 +12,16 @@ echo "# Table of Contents
 " > toc-template.txt
 
 # pandoc book_cat.md --toc --standalone --template=toc-template.txt -o toc.md
-pandoc book_cat.md --toc --template=toc-template.txt -o toc.md
+pandoc book_cat.md \
+    --toc --template=toc-template.txt --css=book.css \
+    -o toc.md
 echo "" >> toc.md
 
 perl -pi -e 's/ -- / – /g' toc.md
 
 cat `cat book.md | sed 's/@import//' | sed 's/"//g'` \
-    | pandoc -o book.html
+    | pandoc --css=book.css --standalone \
+    -o book.html
 
 /bin/rm book_cat.md toc-template.txt
 # /bin/rm book_cat.md toc.md toc-template.txt

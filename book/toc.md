@@ -45,20 +45,22 @@
         -   [Step 16 – Following
             Relinquishment](#step-16-following-relinquishment){#toc-step-16-following-relinquishment}
 -   [Preparation](#preparation){#toc-preparation}
-    -   [Preparation 1 --
-        Posture](#preparation-1-posture){#toc-preparation-1-posture}
-    -   [Preparation 2 – Loving Kindness
-        Meditation](#preparation-2-loving-kindness-meditation){#toc-preparation-2-loving-kindness-meditation}
-    -   [Preparation 3 --
-        Motivation](#preparation-3-motivation){#toc-preparation-3-motivation}
-    -   [Preparation 4 – Session
-        Plan](#preparation-4-session-plan){#toc-preparation-4-session-plan}
-    -   [Preparation 5 – Present Moment
-        Awareness](#preparation-5-present-moment-awareness){#toc-preparation-5-present-moment-awareness}
+    -   [Preparation Step 1 --
+        Posture](#preparation-step-1-posture){#toc-preparation-step-1-posture}
+    -   [Preparation Step 2 – Loving Kindness
+        Meditation](#preparation-step-2-loving-kindness-meditation){#toc-preparation-step-2-loving-kindness-meditation}
+    -   [Preparation Step 3 --
+        Motivation](#preparation-step-3-motivation){#toc-preparation-step-3-motivation}
+    -   [Preparation Step 4 – Session
+        Plan](#preparation-step-4-session-plan){#toc-preparation-step-4-session-plan}
+    -   [Preparation Step 5 – Present Moment
+        Awareness](#preparation-step-5-present-moment-awareness){#toc-preparation-step-5-present-moment-awareness}
 -   [Interpretation of the MN 118 Ānāpānassati
     Instructions](#interpretation-of-the-mn-118-ānāpānassati-instructions){#toc-interpretation-of-the-mn-118-ānāpānassati-instructions}
     -   [Practice Instructions Common to All
         Steps](#practice-instructions-common-to-all-steps){#toc-practice-instructions-common-to-all-steps}
+    -   [First Tetrad – Following the Body --
+        *Kāyānupassanā*](#first-tetrad-following-the-body-kāyānupassanā-1){#toc-first-tetrad-following-the-body-kāyānupassanā-1}
         -   [Step 1 – Long Breath
             Awareness](#step-1-long-breath-awareness-1){#toc-step-1-long-breath-awareness-1}
         -   [Step 2 – Short Breath
