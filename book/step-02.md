@@ -1,4 +1,4 @@
-### 2 – Short Breath Awareness
+### Step 2 – Short Breath Awareness
 
 > <span style="color:green;">either while breathing in short</span> <span style="color:blueviolet;">one understands</span> '<span style="color:limegreen;">I breathe in short</span>', <span style="color:red;">or while breathing out short</span> <span style="color:blueviolet;">one understands</span> '<span style="color:darkorange;">I breathe out short</span>';
 >
@@ -16,7 +16,7 @@
 * The breath may begin to lengthen after the body breathes on its own and if that happens, that's a strong sign we are done with this step.
 
 #### Common misunderstandings
-Some meditators report the breath actually lengthening as the body and mind become more still. While the breath's volume decreases as the body relaxes - expending less energy and needing less oxygen - the duration of each leg of the breath may increase with the increased stillness. The long breathing of Step 1 is intentionally longer than the body's natural breath and in Step 2 the breath shortens. But as the body relaxes further in Steps 3 and 4, that shortened breath may lengthen again due to the increased stillness. If you notice the breath's duration lengthening as the system settles further, that's probably a sign it's time to move on to Steps 3 and 4.
+Some meditators report the breath as actually lengthening as the body and mind become more still. In Step 1, we need to make the breath longer than the body's natural breath. If we don't lengthen the breath enough in Step 1, then when we let the body breathe on its own at the end of this step, it actually lengthens and does not become short.
 
 ---
 

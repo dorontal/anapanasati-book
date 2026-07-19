@@ -1,4 +1,4 @@
-### 12 – Releasing the Mind
+### Step 12 – Releasing the Mind
 
 > <span style="color:blueviolet;">one trains</span> ‘<span style="color:green;">I will breathe in</span> <span style="color:black;">releasing the mind</span>', <span style="color:blueviolet;">one trains</span> ‘<span style="color:red;">I will breathe out</span> <span style="color:black;">releasing the mind</span>'.
 >

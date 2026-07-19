@@ -1,4 +1,4 @@
-### 10 – Gladdening the Mind
+### Step 10 – Gladdening the Mind
 
 > <span style="color:blueviolet;">one trains</span> ‘<span style="color:green;">I will breathe in</span> <span style="color:black;">gladdening the mind</span>', <span style="color:blueviolet;">one trains</span> ‘<span style="color:red;">I will breathe out</span> <span style="color:black;">gladdening the mind</span>';
 >

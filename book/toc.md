@@ -3,54 +3,56 @@
 -   [Introduction](#introduction){#toc-introduction}
 -   [Table of Contents](#table-of-contents){#toc-table-of-contents}
 -   [Preparation](#preparation){#toc-preparation}
-    -   [1 – Posture](#posture){#toc-posture}
-    -   [2 – Loving Kindness
-        Meditation](#loving-kindness-meditation){#toc-loving-kindness-meditation}
-    -   [3 – Motivation](#motivation){#toc-motivation}
-    -   [4 – Session Plan](#session-plan){#toc-session-plan}
-    -   [5 – Present Moment
-        Awareness](#present-moment-awareness){#toc-present-moment-awareness}
+    -   [Prep 1 – Posture](#prep-1-posture){#toc-prep-1-posture}
+    -   [Prep 2 – Loving Kindness
+        Meditation](#prep-2-loving-kindness-meditation){#toc-prep-2-loving-kindness-meditation}
+    -   [Prep 3 --
+        Motivation](#prep-3-motivation){#toc-prep-3-motivation}
+    -   [Prep 4 – Session
+        Plan](#prep-4-session-plan){#toc-prep-4-session-plan}
+    -   [Prep 5 – Present Moment
+        Awareness](#prep-5-present-moment-awareness){#toc-prep-5-present-moment-awareness}
 -   [The Sixteen Steps](#the-sixteen-steps){#toc-the-sixteen-steps}
-    -   [Following the Body --
-        Kāyānupassanā](#following-the-body-kāyānupassanā){#toc-following-the-body-kāyānupassanā}
-        -   [Practice Instructions Common to All
-            Steps](#practice-instructions-common-to-all-steps){#toc-practice-instructions-common-to-all-steps}
-        -   [1 – Long Breath
-            Awareness](#long-breath-awareness){#toc-long-breath-awareness}
-        -   [2 – Short Breath
-            Awareness](#short-breath-awareness){#toc-short-breath-awareness}
-        -   [3 – Experiencing the Whole
-            Body](#experiencing-the-whole-body){#toc-experiencing-the-whole-body}
-        -   [4 – Long Breath
-            Awareness](#long-breath-awareness-1){#toc-long-breath-awareness-1}
-    -   [Following Feeling Tones --
-        *Vedanānupassanā*](#following-feeling-tones-vedanānupassanā){#toc-following-feeling-tones-vedanānupassanā}
-        -   [5 – Experiencing
-            Delight](#experiencing-delight){#toc-experiencing-delight}
-        -   [6 – Experiencing
-            Ease](#experiencing-ease){#toc-experiencing-ease}
-        -   [7 – Experiencing Mental
-            Formations](#experiencing-mental-formations){#toc-experiencing-mental-formations}
-        -   [8 – Calming Mental
-            Formations](#calming-mental-formations){#toc-calming-mental-formations}
-    -   [Following the mind --
-        *Cittānupassanā*](#following-the-mind-cittānupassanā){#toc-following-the-mind-cittānupassanā}
-        -   [9 – Experiencing the
-            Mind](#experiencing-the-mind){#toc-experiencing-the-mind}
-        -   [10 – Gladdening the
-            Mind](#gladdening-the-mind){#toc-gladdening-the-mind}
-        -   [11 – Collecting the
-            Mind](#collecting-the-mind){#toc-collecting-the-mind}
-        -   [12 – Releasing the
-            Mind](#releasing-the-mind){#toc-releasing-the-mind}
-    -   [Following Mental Phenomena --
-        *Dhammānupassanā*](#following-mental-phenomena-dhammānupassanā){#toc-following-mental-phenomena-dhammānupassanā}
-        -   [13 – Following
-            Impermanence](#following-impermanence){#toc-following-impermanence}
-        -   [14 – Following
-            Dispassion](#following-dispassion){#toc-following-dispassion}
-        -   [15 – Following
-            Cessation](#following-cessation){#toc-following-cessation}
-        -   [16 – Following
-            Relinquishment](#following-relinquishment){#toc-following-relinquishment}
+    -   [Practice Instructions Common to All
+        Steps](#practice-instructions-common-to-all-steps){#toc-practice-instructions-common-to-all-steps}
+    -   [First Tetrad – Following the Body --
+        *Kāyānupassanā*](#first-tetrad-following-the-body-kāyānupassanā){#toc-first-tetrad-following-the-body-kāyānupassanā}
+        -   [Step 1 – Long Breath
+            Awareness](#step-1-long-breath-awareness){#toc-step-1-long-breath-awareness}
+        -   [Step 2 – Short Breath
+            Awareness](#step-2-short-breath-awareness){#toc-step-2-short-breath-awareness}
+        -   [Step 3 – Experiencing the Whole
+            Body](#step-3-experiencing-the-whole-body){#toc-step-3-experiencing-the-whole-body}
+        -   [Step 4 – Long Breath
+            Awareness](#step-4-long-breath-awareness){#toc-step-4-long-breath-awareness}
+    -   [Second Tetrad – Following Feeling Tones --
+        *Vedanānupassanā*](#second-tetrad-following-feeling-tones-vedanānupassanā){#toc-second-tetrad-following-feeling-tones-vedanānupassanā}
+        -   [Step 5 – Experiencing
+            Delight](#step-5-experiencing-delight){#toc-step-5-experiencing-delight}
+        -   [Step 6 – Experiencing
+            Ease](#step-6-experiencing-ease){#toc-step-6-experiencing-ease}
+        -   [Step 7 – Experiencing Mental
+            Formations](#step-7-experiencing-mental-formations){#toc-step-7-experiencing-mental-formations}
+        -   [Step 8 – Calming Mental
+            Formations](#step-8-calming-mental-formations){#toc-step-8-calming-mental-formations}
+    -   [Third Tetrad – Following the mind --
+        *Cittānupassanā*](#third-tetrad-following-the-mind-cittānupassanā){#toc-third-tetrad-following-the-mind-cittānupassanā}
+        -   [Step 9 – Experiencing the
+            Mind](#step-9-experiencing-the-mind){#toc-step-9-experiencing-the-mind}
+        -   [Step 10 – Gladdening the
+            Mind](#step-10-gladdening-the-mind){#toc-step-10-gladdening-the-mind}
+        -   [Step 11 – Collecting the
+            Mind](#step-11-collecting-the-mind){#toc-step-11-collecting-the-mind}
+        -   [Step 12 – Releasing the
+            Mind](#step-12-releasing-the-mind){#toc-step-12-releasing-the-mind}
+    -   [Fourth Tetrad – Following Mental Phenomena --
+        *Dhammānupassanā*](#fourth-tetrad-following-mental-phenomena-dhammānupassanā){#toc-fourth-tetrad-following-mental-phenomena-dhammānupassanā}
+        -   [Step 13 – Following
+            Impermanence](#step-13-following-impermanence){#toc-step-13-following-impermanence}
+        -   [Step 14 – Following
+            Dispassion](#step-14-following-dispassion){#toc-step-14-following-dispassion}
+        -   [Step 15 – Following
+            Cessation](#step-15-following-cessation){#toc-step-15-following-cessation}
+        -   [Step 16 – Following
+            Relinquishment](#step-16-following-relinquishment){#toc-step-16-following-relinquishment}
 

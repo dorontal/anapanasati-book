@@ -1,4 +1,4 @@
-### 5 – Experiencing Delight
+### Step 5 – Experiencing Delight
 
 > <span style="color:blueviolet;">One trains</span> ‘<span style="color:green;">I will breathe in</span> <span style="color:black;">experiencing delight</span>', <span style="color:blueviolet;">one trains</span> ‘<span style="color:red;">I will breathe out</span> <span style="color:black;">experiencing delight</span>';
 >
