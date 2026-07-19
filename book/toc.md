@@ -13,6 +13,8 @@
 -   [The Sixteen Steps](#the-sixteen-steps){#toc-the-sixteen-steps}
     -   [Following the Body --
         Kāyānupassanā](#following-the-body-kāyānupassanā){#toc-following-the-body-kāyānupassanā}
+        -   [Practice Instructions Common to All
+            Steps](#practice-instructions-common-to-all-steps){#toc-practice-instructions-common-to-all-steps}
         -   [1 – Long Breath
             Awareness](#long-breath-awareness){#toc-long-breath-awareness}
         -   [2 – Short Breath
