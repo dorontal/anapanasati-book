@@ -1,5 +1,9 @@
-@import url('https://googleapis.com');
+@import url("https://googleapis.com");
 
 body {
-    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  body {
+    background-color: #fdfbf7;
+    color: #2d2c2a;
+  }
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
