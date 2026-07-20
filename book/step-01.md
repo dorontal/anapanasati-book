@@ -7,7 +7,7 @@
 ##### How to Practice
 * Continuously keep track of whether you're breathing in or out.
 * Take intentionally long breaths, lowering the diaphragm as you inhale, to press on the gut and abdominal organs, without forcing or exaggeration. Optionally, you may make the out-breath longer than the in-breath, since modern science has confirmed that this further calms the nervous system REF.
-* Pay attention to how long breathing affects the body and mind.
+* Pay attention to how long breathing affects the body and mind. You may notice some ways in which long breathing, especially when done from the belly and when the inhale is longer, relaxes the body and mind.
 * Pay attention to how the state of the body and mind affects the long breathing.
 
 ##### Signs of Maturation

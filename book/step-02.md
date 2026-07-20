@@ -6,16 +6,15 @@
 
 ##### How to Practice
 * Continuously keep track of whether you're breathing in or out. 
-* Switch to shorter breaths without forcing or exaggeration, such that each leg of the breath is shorter in duration than what it was in Step 1.
-* You may shorten the breath gradually or rapidly.
-* Pay attention to how short breathing affects the body and mind.
+* Switch to shorter breaths without forcing or exaggeration, such that each leg of the breath is shorter in duration than what it was in Step 1. Use chest breathing rather than abdominal breathing.
+* You may shorten the breath gradually or rapidly, that's up to you.
+* Pay attention to how short breathing affects the body and mind. You may notice some ways in which short chest breathing can increase stress or excitement or energy levels in the body and mind.
 * Pay attention to how the state of the body and mind affects the short breathing.
 
 ##### Signs of Maturation
 * Each breath is shorter than it was in Step 1.
 
-##### Common misunderstandings
-Some meditators report the breath as actually lengthening as the body and mind become more settled and still. In Step 1, we need to make the breath longer than the body's natural breath. If we don't lengthen the breath enough in Step 1, then when we let the body breathe on its own at the end of this step, it actually lengthens and does not become short.
+<!-- ##### Common misunderstandings -->
 
 ---
 
