@@ -14,14 +14,15 @@ echo "## Table of Contents
 # pandoc book_cat.md --toc --standalone --template=toc-template.txt -o toc.md
 pandoc book_cat.md \
     --toc --template=toc-template.txt --css=book.css \
-    -o toc.md
+    --columns=200 -o toc.md
 echo "" >> toc.md
 
-perl -pi -e 's/ -- / – /g' toc.md
+# perl -pi -e 's/--/–/g' toc.md
 
 cat `cat book.md | sed 's/@import//' | sed 's/"//g'` \
     | pandoc --css=book.css --standalone \
     --metadata title="Anapanasati Book" \
+    --columns=200 \
     -o book.html
 
 /bin/rm book_cat.md toc-template.txt
