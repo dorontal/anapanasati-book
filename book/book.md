@@ -3,7 +3,7 @@
 @import "toc.md"
 @import "anapanasati-steps.md"
 @import "preparation.md"
-@import "the-sixteen-steps.md"
+@import "practice-intro.md"
 @import "kayanupassana.md"
 @import "step-01.md"
 @import "step-02.md"
