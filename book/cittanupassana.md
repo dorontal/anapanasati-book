@@ -1,3 +1,3 @@
 
-### Third Tetrad: Following the mind (*Cittānupassanā*)
+### Tetrad 3 –  Following the mind (*Cittānupassanā*)
 

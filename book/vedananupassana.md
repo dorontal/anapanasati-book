@@ -1,3 +1,3 @@
 
-### Second Tetrad: Following Feeling Tones (*Vedanānupassanā*)
+### Tetrad 2 –  Following Feeling Tones (*Vedanānupassanā*)
 

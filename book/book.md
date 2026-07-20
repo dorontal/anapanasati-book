@@ -1,7 +1,7 @@
 @import "preface.md"
 @import "introduction.md"
 @import "toc.md"
-@import "anapanasati-steps.md"
+@import "sixteen-steps.md"
 @import "preparation.md"
 @import "practice-intro.md"
 @import "kayanupassana.md"

@@ -1,6 +1,6 @@
-## Translation of the MN 118 Ānāpānassati Instructions
+## Translation of the Sixteen Steps
 
-### First Tetrad: Following the Body (*Kāyānupassanā*)
+### Tetrad 1 –  Following the Body (*Kāyānupassanā*)
 
 #### Step 1 – Long Breath Awareness
 
@@ -26,7 +26,7 @@
 >
 > _‘<span style="color:black;">passambhayaṁ kāyasaṅkhāraṁ</span> <span style="color:green;"> assasissāmī</span>’ti <span style="color:blueviolet;">sikkhati</span>, ‘<span style="color:black;">passambhayaṁ kāyasaṅkhāraṁ</span> <span style="color:red;"> passasissāmī</span>’ti <span style="color:blueviolet;">sikkhati</span>._
 
-### Second Tetrad: Following Feeling Tones (*Vedanānupassanā*)
+### Tetrad 2 –  Following Feeling Tones (*Vedanānupassanā*)
 
 #### Step 5 – Experiencing Delight
 
@@ -52,7 +52,7 @@
 >
 > _‘<span style="color:black;">passambhayaṁ cittasaṅkhāraṁ</span> <span style="color:green;"> assasissāmī</span>’ti <span style="color:blueviolet;">sikkhati</span>, ‘<span style="color:black;">passambhayaṁ cittasaṅkhāraṁ</span> <span style="color:red;"> passasissāmī</span>’ti <span style="color:blueviolet;">sikkhati</span>._
 
-### Third Tetrad: Following the mind (*Cittānupassanā*)
+### Tetrad 3 –  Following the mind (*Cittānupassanā*)
 
 #### Step 9 – Experiencing the Mind
 
@@ -78,7 +78,7 @@
 >
 > _‘<span style="color:black;">vimocayaṁ cittaṁ</span> <span style="color:green;"> assasissāmī</span>’ti <span style="color:blueviolet;">sikkhati</span>, ‘<span style="color:black;">vimocayaṁ cittaṁ</span> <span style="color:red;"> passasissāmī</span>’ti <span style="color:blueviolet;">sikkhati</span>._
 
-### Fourth Tetrad: Following Mental Phenomena (*Dhammānupassanā*)
+### Tetrad 4 –  Following Mental Phenomena (*Dhammānupassanā*)
 
 #### Step 13 – Following Impermanence
 

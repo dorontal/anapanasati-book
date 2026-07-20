@@ -1,3 +1,3 @@
 
-### First Tetrad: Following the Body (*Kāyānupassanā*)
+### Tetrad 1 –  Following the Body (*Kāyānupassanā*)
 

@@ -1,3 +1,3 @@
 
-### Fourth Tetrad: Following Mental Phenomena (*Dhammānupassanā*)
+### Tetrad 4 –  Following Mental Phenomena (*Dhammānupassanā*)
 
