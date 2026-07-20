@@ -23,10 +23,9 @@
         Plan](#preparation-step-4-session-plan){#toc-preparation-step-4-session-plan}
     -   [Preparation Step 5 – Present Moment
         Awareness](#preparation-step-5-present-moment-awareness){#toc-preparation-step-5-present-moment-awareness}
--   [Interpretation of the MN 118 Ānāpānassati
-    Instructions](#interpretation-of-the-mn-118-ānāpānassati-instructions){#toc-interpretation-of-the-mn-118-ānāpānassati-instructions}
-    -   [Practice Instructions Common to All
-        Steps](#practice-instructions-common-to-all-steps){#toc-practice-instructions-common-to-all-steps}
+-   [Ānāpānassati
+    Instructions](#ānāpānassati-instructions){#toc-ānāpānassati-instructions}
+    -   [Common Guidelines](#common-guidelines){#toc-common-guidelines}
     -   [First Tetrad – Following the Body --
         *Kāyānupassanā*](#first-tetrad-following-the-body-kāyānupassanā-1){#toc-first-tetrad-following-the-body-kāyānupassanā-1}
     -   [Second Tetrad – Following Feeling Tones --
