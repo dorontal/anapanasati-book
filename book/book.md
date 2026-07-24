@@ -1,6 +1,6 @@
+@import "toc.md"
 @import "preface.md"
 @import "introduction.md"
-@import "toc.md"
 @import "sixteen-steps.md"
 @import "preparation.md"
 @import "practice-intro.md"

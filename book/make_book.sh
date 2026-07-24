@@ -11,13 +11,12 @@ echo "## Table of Contents
 \$toc\$
 " > toc-template.txt
 
-# pandoc book_cat.md --toc --standalone --template=toc-template.txt -o toc.md
 pandoc book_cat.md \
     --toc --template=toc-template.txt --css=book.css \
     --columns=200 -o toc.md
 echo "" >> toc.md
 
-# perl -pi -e 's/--/–/g' toc.md
+perl -pi -e 's/--/–/g' toc.md
 
 cat `cat book.md | sed 's/@import//' | sed 's/"//g'` \
     | pandoc --css=book.css --standalone \
@@ -26,4 +25,3 @@ cat `cat book.md | sed 's/@import//' | sed 's/"//g'` \
     -o book.html
 
 /bin/rm book_cat.md toc-template.txt
-# /bin/rm book_cat.md toc.md toc-template.txt
