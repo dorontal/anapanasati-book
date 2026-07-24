@@ -10,11 +10,14 @@
 * You may shorten the breath gradually or rapidly, that's up to you.
 * Pay attention to how short breathing affects the body and mind. You may notice some ways in which short chest breathing can increase stress or excitement or energy levels in the body and mind.
 * Pay attention to how the state of the body and mind affects the short breathing.
+* If you notice you've unintentionally stopped controlling the length of the breath, leave it uncontrolled for the rest of the session. Otherwise, stop controlling it as you move into step 3 - letting the body breathe on its own - for the remainder of the session.
 
 ##### Signs of Maturation
-* Each breath is shorter than it was in Step 1.
+* If we find that the body is breathing on it's own, we're ready to move on to Step 3.
+* If we're still controlling the breath to be shorter and we feel that we have spent enough time investigating the short breath and its relation to  the body/heart/mind in this session and the comparison of short breathing effects to long breathing effects. The result of that comparison may vary from session to session. This is why we spend some time investigating the long and short breath and their relative effects on the body/heart/mind. In short, if we feel we've gained enough insight or spent enough time for building future insight, then we're ready to move on.
 
-<!-- ##### Common misunderstandings -->
+##### Common hurdles or misunderstandings
+* Short chest breathing adds energy and stress to the body. If done for too long, the stress can become too high.
 
 ---
 
